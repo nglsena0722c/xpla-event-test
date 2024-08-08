@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.2c337531.css",
-    "main.js": "/static/js/main.ae4e6ace.js",
-    "static/js/206.b9643ba5.chunk.js": "/static/js/206.b9643ba5.chunk.js",
-    "static/media/bluelemon.svg": "/static/media/bluelemon.05a8f7bb4f7023649f56.svg",
-    "static/media/star.svg": "/static/media/star.e39ad459e035c2edd778.svg",
-    "index.html": "/index.html"
+    "main.css": "/xpla-event-test/static/css/main.008826e6.css",
+    "main.js": "/xpla-event-test/static/js/main.f681a5a9.js",
+    "static/js/206.b9643ba5.chunk.js": "/xpla-event-test/static/js/206.b9643ba5.chunk.js",
+    "static/media/bluelemon.svg": "/xpla-event-test/static/media/bluelemon.05a8f7bb4f7023649f56.svg",
+    "static/media/star.svg": "/xpla-event-test/static/media/star.e39ad459e035c2edd778.svg",
+    "index.html": "/xpla-event-test/index.html"
   },
   "entrypoints": [
-    "static/css/main.2c337531.css",
-    "static/js/main.ae4e6ace.js"
+    "static/css/main.008826e6.css",
+    "static/js/main.f681a5a9.js"
   ]
 }
